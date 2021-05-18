@@ -1,4 +1,4 @@
-## Supply Data Baltic Sea 2020
+## Supply & Demand Data Baltic Sea 2020
 
 This repository contains supply data in zones of the Baltic Sea as a result of historical vessel movements from 2020 based on automatic identification system (AIS) data provided by the Danish Maritime Authority (DMA).
 
